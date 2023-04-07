@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A
 B
 
@@ -5,6 +6,10 @@ B
 mmmmmmm
 
 =======
+AIM in the Dev branch
+>>>>>>> 95799ed... updated the DBConnect file with password
+=======
+
 AIM in the Dev branch
 >>>>>>> 95799ed... updated the DBConnect file with password
 mmmmmmmmmmmmmmmmmmmmmmmmmmm dev branc
